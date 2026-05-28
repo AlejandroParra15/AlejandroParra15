@@ -2,7 +2,7 @@
 
 ## 📖 I'm a Systems Engineer Student  
 
-- 📚 I'm currently pursuing undergraduate in Systems Engineering at ICESI University, Cali - Colombia
+- 📚 I'm currently pursuing undergraduate in Systems Engineering at Javeriana University, Cali - Colombia
 - 👨‍💻 I’m currently working on data science and machine learning technologies with python.
 - 💪🏼 5 years of experience using Java.
 - ⚡ Future Goals: Learn more about web development technologies like JavaScript, React etc.
